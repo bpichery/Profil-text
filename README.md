@@ -4,7 +4,7 @@ Hi everyone, 🖖
 
 
 
-🛠️ I’m currently working on: taking driving lessons.🚙
+🛠️ I’m currently working on: taking driving lessons 🚙
 
 
 📜 I’m currently learning: HTML / CSS / JavaScript / Node / React / Nuxt / Vue / Git / SQL / Figma / Agile methods
